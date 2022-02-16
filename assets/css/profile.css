@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 body {
-    /* more on this crazy alphanumerical value in a minute! */
     color: #df2019;
     font-family: Helvetica, Arial, sans-serif
 }
@@ -36,4 +35,51 @@ body {
         font-weight: bold;
         font-size: 22px;
     }
+
+    /*About me style*/
+    .info {
+        text-align: center;
+    }
+    .info h2 {
+        color: #df2019;
+    }
+    .info p {
+        line-height: 1.9;
+        color: #000000;
+        width: 80%;
+        font-size: medium;
+        margin: 0 auto;
+    }
+    /*about me style end*/
+
+   /*footer*/
+   footer {
+    background: gray;
+    width: 100%;
+    padding: 40px 35px;
+  }
+    footer h2 {
+    display: inline;
+    color: #df2019;
+    font-size: 30px;
+    margin: 0;
+  }
+    footer a {
+    text-decoration: none;
+    color: #af0a04;
+    }
+    footer nav {
+        float: right;
+        margin: 7px 0;
+    }
+    footer nav ul li {
+        display: inline;
+    }
+    footer nav ul li a {
+        margin: 0 30px;
+        font-weight: lighter;
+        font-size: 22px;
+    }
+    
+
     
