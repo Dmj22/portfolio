@@ -5,7 +5,7 @@
 }
 body {
     /* more on this crazy alphanumerical value in a minute! */
-    color: #b23d39;
+    color: #df2019;
     font-family: Helvetica, Arial, sans-serif
 }
 /* apply styles to <header> */
@@ -16,13 +16,13 @@ body {
     header h1 {
     font-weight: bold;
     font-size: 36px;
-    color: #fc3838;
+    color: #df2019;
     margin: 0;
     display: inline;
     }
     header a {
     text-decoration: none;
-    color: #fc6638;
+    color: #df2019;
     }
     header nav {
         float: right;
@@ -33,7 +33,7 @@ body {
     }
     header nav ul li a {
         margin: 0 30px;
-        font-weight: lighter;
+        font-weight: bold;
         font-size: 22px;
     }
     
