@@ -51,6 +51,36 @@ body {
         margin: 0 auto;
     }
     /*about me style end*/
+    
+    /*profiolo*/
+    .flex-container {
+        display: flex;
+    }
+    .Run-Buddy {
+        background-image: url("../images/run\ buddy.png");
+        min-height: 150px;
+        background-repeat: no-repeat;
+        height: 305px;
+        background-size: cover;
+        width: 408px;
+    }
+    .New-Gen22-Marketing {
+        background-image: url("../images/new\ gen\ marketing.png");
+        min-height: 150px;
+        background-repeat: no-repeat;
+        height: 305px;
+        background-size: cover;
+        width: 408px;
+    }
+    .description {
+        background-color: gray;
+    }
+    .description h3 {
+        font-size: 32px;
+    }
+    .description p {
+        font-size: 32xp;
+    }
 
    /*footer*/
    footer {
