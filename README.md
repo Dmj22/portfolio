@@ -1,4 +1,4 @@
-# portfolio
+# portfolio Created a profile for future job inquiries
 Da'Quan Jordan Profile site
 added header for work, about me, contact me and resume
 added link for run buddy project
@@ -19,3 +19,4 @@ attached html and css
 44aa586a3e61.png)![Screen Shot 2022-02-16 at 8 19 12 PM](https://user-images.githubusercontent.com/98237579/154385847-ea1684e1-7822-4355-b403-6dd6cba7470c.png)
 ![Screen Shot 2022-02-17 at 8 58 49 PM](https://user-images.githubusercontent.com/98237579/154603140-e29a38aa-8886-4357-9bf5-101d4e5a896e.png)
 ![Screen Shot 2022-02-17 at 8 58 25 PM](https://user-images.githubusercontent.com/98237579/154603099-0d709fa6-fd1d-42bb-b44f-1ef670ca8e15.png)
+https://dmj22.github.io/portfolio/
